@@ -19,7 +19,11 @@
   },
   "dependencies": {
     "browserslist": "^4.21.4",
-    "modern-normalize": "^1.1.0"
+    "bundler": "^0.8.0",
+    "lodash.debounce": "^4.0.8",
+    "modern-normalize": "^1.1.0",
+    "notiflix": "^3.2.5",
+    "npm-cli": "^0.1.0"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
